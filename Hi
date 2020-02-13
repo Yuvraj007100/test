@@ -1,0 +1,16 @@
+What will be the output of the following code?
+class Vehicle
+static void move0
+System.out.println("Vehicle Moving");
+
+ag question
+
+class Car extends Vehicle
+static void move0
+System.out.println("Car Moving);
+
+class Test Vehicle
+public static void main(String args
+Vehicle vehicle = new Vehicle:
+Vehicle car = new CarO;
+vehicle.move():
